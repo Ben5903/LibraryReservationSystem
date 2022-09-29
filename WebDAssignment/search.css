@@ -1,0 +1,60 @@
+#title {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+table {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 75%;
+    padding:50px;
+
+}
+
+form {
+    text-align: center;
+    font-family: sans-serif;
+    margin: 0 auto;
+    width: 15%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+
+}
+
+#nav a {
+    text-align: center;
+    color: black;
+    width: 50%;
+    border-left: auto;
+    font-family: sans-serif;
+
+}
+
+#nav a:hover, #nav a:active {
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+
+}
+
+#title {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+}
